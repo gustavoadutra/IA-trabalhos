@@ -1,3 +1,6 @@
+### Trabalho 1 - IA - Algoritmos de Busca
+
+
 O código é estruturado em torno da classe StateFarmer, que gerencia os estados do problema de travessia do rio. Esta classe inicializa o estado com as posições do fazendeiro, lobo, ovelha, repolho e cachorro, além de um indicador de ferimento.
 
 
