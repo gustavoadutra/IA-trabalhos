@@ -1,8 +1,6 @@
 O código é estruturado em torno da classe StateFarmer, que gerencia os estados do problema de travessia do rio. Esta classe inicializa o estado com as posições do fazendeiro, lobo, ovelha, repolho e cachorro, além de um indicador de ferimento.
 
-
-![Cachorro brincando com repolho enquanto lobo descansa no fundo.](https://github.com/gustavoadutra/IA-trabalhos/blob/main/assets/dogandcabbage.png)
-
+<img src="https://github.com/gustavoadutra/IA-trabalhos/blob/main/assets/dogandcabbage.png" alt="Cachorro brincando com repolho enquanto lobo descansa no fundo." width="50%"/>
 A classe implementa métodos fundamentais:
 - __eq__: Compara dois estados para verificar igualdade, evitando duplicação de estados na busca
 - __hash__: Gera um valor hash único para cada estado, permitindo seu uso eficiente em coleções como sets e dicionários
